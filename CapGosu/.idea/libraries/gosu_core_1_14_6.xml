@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="gosu-core-1.14.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/ProyectoSura/Entorno/gosu-1.14.6/lib/gosu-core-1.14.6.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/ProyectoSura/Entorno/gosu-1.14.6/lib/gosu-core-api-1.14.6.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/ProyectoSura/Entorno/gosu-1.14.6/lib/gosu-doc-1.14.6.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/ProyectoSura/Entorno/gosu-1.14.6/lib/gosu-lab-1.14.6.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/ProyectoSura/Entorno/gosu-1.14.6/lib/gw-asm-all-5.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/ProyectoSura/Entorno/gosu-1.14.6/lib/gw-jcommander-1.48.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
